@@ -6,17 +6,17 @@ This thing helps you randomly choose emails from a list of emails that you copy 
 
 ## Steps
 
-1. Download this repository (Git clone or Download ZIP). ![image-20191107223618028](C:\Users\2021158\OneDrive - Appleby College\S1\Math\GlobalIssue\image-20191107223618028.png)
+1.  Click on format.py in the file list above, and download it into your "Downloads" folder.
 
-2. Go to Outlook and select all of the groups you want in your population. // TODO add photo
+2. Go to Outlook and select all of the groups you want in your population. ![image-20191108133129649](C:\Users\2021158\OneDrive - Appleby College\S1\Math\GlobalIssue\image-20191108133129649.png)
 
-3. Expand these, select all (Ctrl + A), and copy // TODO add photo
+3. Expand these (by clicking the plus button beside each group), select all (Ctrl + A), and copy
 
-4. In the repository, create a new text file called text.txt and paste whatever you have on clipboard in there.
+4. In Downloads folder, create a new text file called text.txt and paste whatever you have on clipboard in there.
 
 5. Open format.py in Notepad and change SAMPLESIZE variable to however many random addresses you need. ![image-20191107225227884](C:\Users\2021158\OneDrive - Appleby College\S1\Math\GlobalIssue\image-20191107225227884.png) 
 
-6. Open a command line an run in the repository directory:
+6. Open a command line an run in "Downloads":
 
    ```
    python format.py
