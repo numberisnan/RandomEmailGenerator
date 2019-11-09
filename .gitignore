@@ -1,3 +1,9 @@
+# Microsoft files
 *.docx
+*.xlsx
+
+# Program files
 text.txt
 result.txt
+newRecipients.txt
+taken.txt
