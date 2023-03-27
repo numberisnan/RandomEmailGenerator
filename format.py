@@ -7,7 +7,7 @@ with open(TEXTFILENAME, "r") as textFile:
     text = textFile.read()
 
 
-newText = ";".join(random.sample(text.split(";"), 70))
+newText = ";".join(random.sample(text.split(";"), SAMPLESIZE))
 
 print(newText)
 
